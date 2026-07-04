@@ -43,7 +43,7 @@ bloodbank:
 google:
   gemini:
     api:
-      key: AIzaSyAyhgHnNtp7MwHR4iWgQ4IPE92deXwOe2w
+      key: "API KEY HERE"
     model: gemini-2.0-flash
 
 logging:
